@@ -3,7 +3,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  a img { border: 0; }
  a { text-decoration: none; }
  body { position: relative; width: 100%; background: #2B2B2B; color: #666666; font-family: 'Lato', sans-serif; font-size: 16px; font-weight: normal; line-height: 1.8em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
- a { color: #2B2B2B; -webkit-transition: color 200ms ease-in; -moz-transition: color 200ms ease-in; -ms-transition: color 200ms ease-in; -o-transition: color 200ms ease-in; transition: color 200ms ease-in; }
+ a { color: #009FCC; -webkit-transition: color 200ms ease-in; -moz-transition: color 200ms ease-in; -ms-transition: color 200ms ease-in; -o-transition: color 200ms ease-in; transition: color 200ms ease-in; }
  a:hover, .wsite-com-link:hover .wsite-com-link-text { color: #2B2B2B; }
  h2 { padding-bottom: 10px; color: #333333; font-family: 'Lato', sans-serif; font-size: 24px; font-weight: 300; line-height: 1.3em; }
  blockquote { position: relative; display: inline; color: #a0a0a0; padding: 0 1.5em; border-left: 0 !important; font-size: 1.35em; line-height: 1.65em; }
