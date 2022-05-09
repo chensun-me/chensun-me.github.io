@@ -1435,7 +1435,7 @@ h2.blog-title a {
     }
 
     .no-header-page .header-wrap .nav-wrap {
-        border-bottom: 1px solid #cccccc;
+        /* border-bottom: 1px solid #cccccc; */
     }
 
     .no-header-page #main-wrap {
